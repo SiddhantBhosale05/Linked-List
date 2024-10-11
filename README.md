@@ -16,7 +16,7 @@ A **linked list** is a fundamental data structure used to store a collection of 
 2. **Doubly Linked List**: Each node points to both the next and the previous node. This allows traversal in both directions.
 3. **Circular Linked List**: The last node points back to the first node, forming a circle. It can be singly or doubly linked.
 
-Eg-
+Example
 ```cpp
 struct Node {
     int data;
