@@ -1,6 +1,6 @@
 //Name:Siddhant Kiran Bhosale
 //PRN:23070123038
-//Aim:Implemention of Linked List in a program
+//Aim:Implementation of Linked List in a program
 
 #include <iostream>
 using namespace std;
