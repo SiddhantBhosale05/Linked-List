@@ -1,6 +1,6 @@
 //Name:Siddhant Kiran Bhosale
 //PRN:23070123038
-//Aim:Implemention of Linked List in a programto Add a node at the begenning of a Linked List
+//Aim:Implementation of Linked List in a programto Add a node at the begenning of a Linked List
 
 #include <iostream>
 using namespace std;
